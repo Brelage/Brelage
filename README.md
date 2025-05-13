@@ -11,7 +11,6 @@ I'm passionate about applying data-driven approaches to real-world challenges, p
 *   **Programming:** mainly Python (Data Analysis Libraries like Pandas, Plotly), some SQL and R as well
 *   **Web Scraping & Data:** Web Scraping, SQLAlchemy
 *   **DevOps & Cloud:** Docker, AWS
-*   **Version Control:** Git, GitHub
 *   **Languages:** German (Native), English (C2 - Proficient), Japanese (C1 - Fluent)
 *   **Other:** Project Management, Data Analysis, Sustainable Development
 
