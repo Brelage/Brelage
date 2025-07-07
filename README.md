@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Noah Brelage!
 
-I'm an engaged entry-level professional bridging the gap between social sciences and technology. I have a background in project management and consulting, complemented by practical skills in Python programming and data science.
+I'm an engaged entry-level professional bridging the gap between social sciences and technology. I have a background in project management and consulting, complemented by practical skills in Python programming and data analytics.
 
 I'm passionate about applying data-driven approaches to real-world challenges, particularly in areas like sustainability and market analysis. I'm a quick, self-directed learner always looking to expand my technical toolkit.
 
@@ -20,7 +20,7 @@ I'm passionate about applying data-driven approaches to real-world challenges, p
 
 *   Working as a **Project Assistant** at ECOS Consult, involved in market data research, analysis, and some Python development.
 *   Developing and maintaining personal projects like **Bazaar** (see below).
-*   Exploring further applications of data science and cloud technologies.
+*   Exploring further applications of data analytics and cloud technologies.
 
 ---
 
@@ -36,7 +36,7 @@ I'm passionate about applying data-driven approaches to real-world challenges, p
 ### 🎓 Education Background
 
 *   **B.A. Social & Cultural Studies of Japan** - Heinrich-Heine-Universität Düsseldorf (Thesis on Circular Economy Practices)
-*   **Exchange Year** - College of Arts & Sciences, University of Tokyo (Research on Climate Activism)
+*   **Exchange Year** - College of Arts & Sciences, University of Tokyo (Research on Climate Activism & Stakeholder Engagement)
 
 ---
 
