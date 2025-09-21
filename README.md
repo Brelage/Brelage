@@ -1,41 +1,40 @@
 # Hi there 👋, I'm Noah Brelage!
 
-I'm an engaged entry-level professional bridging the gap between social sciences and technology. I have a background in project management and consulting, complemented by practical skills in Python programming and data analytics.
-
-I'm passionate about applying data-driven approaches to real-world challenges, particularly in areas like sustainability and market analysis. I'm a quick, self-directed learner always looking to expand my technical toolkit.
-
----
-
-### 🛠️ Skills & Technologies
-
-*   **Programming:** mainly Python (Data Analysis Libraries like Pandas, Plotly), some SQL and R as well
-*   **Web Scraping & Data:** Web Scraping, SQLAlchemy
-*   **DevOps & Cloud:** Docker, AWS
-*   **Languages:** German (Native), English (C2 - Proficient), Japanese (C1 - Fluent)
-*   **Other:** Project Management, Data Analysis, Sustainable Development
+I'm an engaged professional bridging the gap between social sciences and technology. I have a background in project management and consulting, complemented by practical skills in Python programming and data analytics. Also, I really enjoy working on projects focussed on sustainability.
+I enjoy finding ways of gathering and gaining insights from actually meaningful data as well as actually useful AI implementations.
 
 ---
 
 ### 🌱 Currently
 
-*   Working as a **Project Assistant** at ECOS Consult, involved in market data research, analysis, and some Python development.
-*   Developing and maintaining personal projects like **Bazaar** (see below).
-*   Exploring further applications of data analytics and cloud technologies.
+*   Working as a **Founders Associate** at BuildLinX, a deep-tech start up with the goal to decarbonize the building sector through intelligent building management and automation. I'm bridging the gap between the business and the development team and developing projects for strategic positioning, market research, data analysis, and internal process opimization.
+*   Whenever I have time, I am developing and maintaining personal projects like **[Bazaar](https://github.com/Brelage/bazaar)** or **[Zeitgeist](https://github.com/Brelage/zeitgeist)**.
+
+
+---
+
+### 🛠️ Skills & Technologies
+
+*   **Programming:** mainly Python (data analysis, automation), some SQL and R as well
+*   **DevOps & Cloud:** Docker, AWS
+*   **Languages:** German (Native), English (C2 - Proficient), Japanese (C1 - Fluent)
+*   **Other:** Project Management, Sustainable Development
 
 ---
 
 ### ✨ Featured Project
 
-*   **[Bazaar](https://github.com/Brelage/Bazaar):** A web scraping project I built with Python to track prices and availability of supermarket products over time.
-    *   **Tech Stack:** Python, SQLAlchemy (Database Management), Pandas (Data Processing), Plotly (Visualization), AWS (Automation/Scalability), Docker (Containerization).
-    *   **Features:** Data collection, storage, analysis, and cloud deployment integration.
+*   **[Bazaar](https://github.com/Brelage/Bazaar):** A web scraping project to track prices and availability of supermarket products over time.
+    *   **Features:** automated data collection and storage in a highly normalized SQL-database, analysis of aggregate data, and cloud deployment integration.
+*   **[Zeitgeist](https://github.com/Brelage/zeitgeist):** A data collection project with two goals: a daily news briefing that focusses on the headlines and an archive of news articles for natural language processing.
+    *   **Features:** automated data collection in the format of a JSONL file, customizable generation of briefings, and natural language processing that finds trends in historical data.
 
 
 ---
 
 ### 🎓 Education Background
 
-*   **B.A. Social & Cultural Studies of Japan** - Heinrich-Heine-Universität Düsseldorf (Thesis on Circular Economy Practices)
+*   **B.A. Socio-Cultural Japanese Studies** - Heinrich-Heine-Universität Düsseldorf (Thesis on Circular Economy Practices)
 *   **Exchange Year** - College of Arts & Sciences, University of Tokyo (Research on Climate Activism & Stakeholder Engagement)
 
 ---
@@ -43,6 +42,5 @@ I'm passionate about applying data-driven approaches to real-world challenges, p
 ### 📫 Get In Touch
 
 *   **LinkedIn:** [linkedin.com/in/noah-brelage](https://linkedin.com/in/noah-brelage)
-*   **Email:** noah.brelage@outlook.de
 
 ---
